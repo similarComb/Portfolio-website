@@ -1,11 +1,11 @@
 
-# 🧑‍💻 Satyajit Pradhan — Portfolio Website
+🧑‍💻 Aditya Mohanty — Portfolio Website
 
 A modern, responsive personal portfolio website to showcase my work, skills, education, and projects as a front-end web developer.
 
 ---
 
-## 🌟 Features
+ 🌟 Features
 
 - Interactive hero section with typing animation
 - Fully responsive layout
@@ -27,23 +27,14 @@ A modern, responsive personal portfolio website to showcase my work, skills, edu
 ## 📂 Folder Structure
 
 ```
-├── images/           # All image assets
 ├── index.html        # Main HTML file
 ├── style.css         # Core styles
 ├── responsive.css    # Responsive styles
 ├── script.js         # JavaScript for interactivity
-```
-
----
-
-## 📸 Preview
-
-![Screenshot](./images/Personal.png)  
+```  
 
 ---
 ## 📬 Contact
 
-- **LinkedIn:** [Satyajit Pradhan](https://www.linkedin.com/in/satyajit-pradhan-06093525b/)
-- **GitHub:** [Satyajit7822](https://github.com/Satyajit7822)
-- **Twitter:** [@SatyajitPr74270](https://x.com/SatyajitPr74270?s=09)
-
+- **LinkedIn:** www.linkedin.com/in/aditya-mohanty-008005276
+- **GitHub:** https://github.com/similarComb
